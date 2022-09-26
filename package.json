@@ -1,0 +1,16 @@
+{
+  "name": "answer-scrambler",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Itay Habani",
+  "license": "ISC",
+  "dependencies": {
+    "docx": "^7.5.0",
+    "docx-parser": "^0.2.1"
+  }
+}
